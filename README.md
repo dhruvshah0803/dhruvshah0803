@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Shah</h1>
+<h1 align="center">👋 Hi , I'm Dhruv Shah</h1>
 <h3 align="center">A Third Year Technology Management student at NMIMS.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvshah0803&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvshah0803" /> </p>
